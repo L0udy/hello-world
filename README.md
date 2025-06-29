@@ -1,4 +1,6 @@
 # hello-world
 
-This repository now includes a modern login page inspired by biotech industry design.
-Open `index.html` in your browser to view the sign-in form with options to create an account or recover a forgotten password.
+This repository contains a simple login page styled to resemble modern biotech UI patterns.
+
+Open `index.html` in your browser to view the sign‑in form, which links to account creation and password recovery pages.
+All page styles live in `style.css` so you can customize colors, fonts and layout without touching the HTML.
